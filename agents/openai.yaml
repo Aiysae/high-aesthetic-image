@@ -1,0 +1,4 @@
+interface:
+  display_name: "高审美配图Skill"
+  short_description: "为朋友圈与商业内容生成克制、有质感、观点清楚的高审美配图"
+  default_prompt: "使用 $high-aesthetic-image，根据这段文案生成一张有高级感、能看懂核心观点的朋友圈配图。"
